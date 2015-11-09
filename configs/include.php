@@ -23,7 +23,7 @@ define('C_N_GLOBAL', 'Framework G - glight'); //application global title
 define('C_DB_SERVER', 'localhost'); //DB server
 define('C_DB_USER', 'root'); //DB user
 define('C_DB_PASS', ''); //DB password
-define('C_DB_DATABASE_NAME', 'parcial'); //DB database name
+define('C_DB_DATABASE_NAME', 'tallergit'); //DB database name
 define('C_DB_LIMIT', 10); //DB limit of elements by page
 
 require(C_FULL_PATH."modules/super_controller.php"); //Super Controller
